@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/carlos-d-escobar-lastre-b932b0274/">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/j.sanskarr/">
+<a href="https://www.instagram.com/carlosescobar_26/">
   <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
 </a>
 
