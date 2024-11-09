@@ -29,7 +29,7 @@
 
 
 **Idiomas y herramientas:**
-![Uploading image.png…]()
+
 
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/laravel.png"></code> Laravel
