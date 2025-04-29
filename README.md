@@ -33,8 +33,6 @@
 
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/laravel.png"></code> Laravel
-<code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Solidity
-
 <code><img height="20" src="https://img.icons8.com/nolan/96/css3.png"></code> Css
 <code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 
